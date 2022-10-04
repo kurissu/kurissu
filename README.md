@@ -4,7 +4,7 @@
 
 🤝 Looking to collaborate with experience Web-Developer as a mentee.
 
-🔍I'm looking for help with interview preparations and Job seeking.
+🔍 I'm looking for help with interview preparations and Job seeking.
 
 🌱 I'm currently learning Java-script and its frame-work. Also working with python and C on the side using arduino/raspberryPi.
 
