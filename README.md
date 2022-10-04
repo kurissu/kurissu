@@ -1,11 +1,16 @@
 # 💫 About Me:
 
--👨‍💻 I'm currently working on becoming a Full-Stack Developer.
--🤝 Looking to collaborate with experience Web-Developer as a mentee.
--🔍I'm looking for help with interview preparations and Job seeking.
--🌱 I'm currently learning Java-script and its frame-work. Also working with python and C on the side using arduino/raspberryPi
--🐶 Ask me about Corgi's and Shiba Inu's.
--⚡ Fun fact: I love playing Badminton, Golf, Video Games, and I take Coffee as my Fuel!
+👨‍💻 I'm currently working on becoming a Full-Stack Developer.
+
+🤝 Looking to collaborate with experience Web-Developer as a mentee.
+
+🔍I'm looking for help with interview preparations and Job seeking.
+
+🌱 I'm currently learning Java-script and its frame-work. Also working with python and C on the side using arduino/raspberryPi.
+
+🐶 Ask me about Corgi's and Shiba Inu's.
+
+⚡ Fun fact: I love playing Badminton, Golf, Video Games, and I take Coffee as my Fuel!
 
 
 ## 🌐 Socials:
